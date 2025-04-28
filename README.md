@@ -5,7 +5,7 @@
 ### Installation
 
 ```
-git clone https://swanhub.co/eastsheng/construct_homopolymer.git
+git clone https://github.com/eastsheng/construct_homopolymer.git
 pip install -r requirements.txt
 ```
 
